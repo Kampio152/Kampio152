@@ -1,7 +1,8 @@
-<h1 align="center" style="display:none;"></h1>
+# Cześć, jestem Kamil
+Witam na moim profilu!
 
-### Cześć, nazywam się [Kamil][website] 👋
+## Technologi
+![](https://skillicons.dev/icons?i=js,ts,prisma,git,github,nodejs,html,css,docker,discordjs,postgres,vscode)
 
----
-
-[website]: https://kampio152.xyz/
+## Metryka
+<picture><img src="/github-metrics.svg" alt="Metryka" draggable="false"></picture>
